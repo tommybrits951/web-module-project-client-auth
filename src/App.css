@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  display: block;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+  width: 50%; 
+  left: 20%;
+}
+input {
+ 
+  margin: 3px 6px;
+}
+button {
+  width: 10px;
+  
+}
